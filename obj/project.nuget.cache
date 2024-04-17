@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPa8475515ZIixf+g0TrQICH35m4SP/Cg08JArB3SwrwEWY17J23wDa6X+3OjhgEnrcaRZ+qOLSivnKsRmqtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\Downloads\\Temperatura\\Temperatura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.management.infrastructure\\3.0.0\\microsoft.management.infrastructure.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.management.infrastructure.runtime.unix\\3.0.0\\microsoft.management.infrastructure.runtime.unix.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\3.0.0\\microsoft.management.infrastructure.runtime.win.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
